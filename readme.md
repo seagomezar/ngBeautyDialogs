@@ -47,4 +47,4 @@ If you find things to do, let me know!
 Did you find something?
 
 [Sebastian Gomez]: <http://www.sebastian-gomez.com>
-[Demo Link]: <http://www.sebastian-gomez.com>
+[Demo Link]: <http://seagomezar.github.io/ngBeautyDialogs/dist/>
