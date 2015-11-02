@@ -1,0 +1,12 @@
+{
+  "name": "Dialogs Theme For ngDialog",
+  "version": "0.0.1",
+  "description": "A set of Styles for dialogs",
+  "private": true,
+  "dependencies": {
+	"angular": "~1.4.3",
+    "ngDialog": "~0.4.0",
+    "bootstrap": "~3.3.5",
+    "angular-route": "~1.3.4"
+  }
+}
